@@ -4,7 +4,11 @@ MIT-Linear Algebra
 
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
+## Readings
 
+Strang, Gilbert. Introduction to Linear Algebra. 4th ed. Wellesley-Cambridge Press, 2009. ISBN: 9780980232714.
+
+Strang, Gilbert. Introduction to Linear Algebra. 5th ed. Wellesley-Cambridge Press, 2016. ISBN: 9780980232776.
 
 ## Course Highlights
 

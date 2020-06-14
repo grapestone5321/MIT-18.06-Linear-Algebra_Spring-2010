@@ -19,3 +19,115 @@ The course picks out four key applications in the book: Graphs and Networks; Sys
 ## Course Description
 
 This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
+
+## Lecture
+
+### Lecture 1: The geometry of linear equations
+
+### Lecture 2: Elimination with matrices
+
+### Lecture 3: Multiplication and inverse matrices
+
+### Lecture 4: Factorization into A = LU
+
+### Lecture 5: Transposes, permutations, spaces R^n
+
+### Lecture 6: Column space and nullspace
+
+### Lecture 7: Solving Ax = 0: pivot variables, special solutions
+
+### Lecture 8: Solving Ax = b: row reduced form R
+
+### Lecture 9: Independence, basis, and dimension
+
+### Lecture 10: The four fundamental subspaces
+
+### Lecture 11: Matrix spaces; rank 1; small world graphs
+
+### Lecture 12: Graphs, networks, incidence matrices
+
+### Lecture 13: Quiz 1 review
+
+### Lecture 14: Orthogonal vectors and subspaces
+
+### Lecture 15: Projections onto subspaces
+
+### Lecture 16: Projection matrices and least squares
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:
+
+### Lecture 1:

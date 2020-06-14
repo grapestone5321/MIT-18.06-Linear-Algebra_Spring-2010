@@ -54,31 +54,31 @@ This is a basic subject on matrix theory and linear algebra. Emphasis is given t
 
 ### Lecture 16: Projection matrices and least squares
 
-### Lecture 1:
+### Lecture 17: Orthogonal matrices and Gram-Schmidt
 
-### Lecture 1:
+### Lecture 18: Properties of determinants
 
-### Lecture 1:
+### Lecture 19: Determinant formulas and cofactors
 
-### Lecture 1:
+### Lecture 20: Cramer's rule, inverse matrix, and volume
 
-### Lecture 1:
+### Lecture 21: Eigenvalues and eigenvectors
 
-### Lecture 1:
+### Lecture 22: Diagonalization and powers of A
 
-### Lecture 1:
+### Lecture 23: Differential equations and exp(At)
 
-### Lecture 1:
+### Lecture 24: Markov matrices; fourier series
 
-### Lecture 1:
+### Lecture 24b: Quiz 2 review
 
-### Lecture 1:
+### Lecture 25: Symmetric matrices and positive definiteness
 
-### Lecture 1:
+### Lecture 26: Complex matrices; fast fourier transform
 
-### Lecture 1:
+### Lecture 27: Positive definite matrices and minima
 
-### Lecture 1:
+### Lecture 28: Similar matrices and jordan form
 
 ### Lecture 1:
 

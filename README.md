@@ -80,54 +80,16 @@ This is a basic subject on matrix theory and linear algebra. Emphasis is given t
 
 ### Lecture 28: Similar matrices and jordan form
 
-### Lecture 1:
+### Lecture 29: Singular value decomposition
 
-### Lecture 1:
+### Lecture 30: Linear transformations and their matrices
 
-### Lecture 1:
+### Lecture 31: Change of basis; image compression
 
-### Lecture 1:
+### Lecture 32: Quiz 3 review
 
-### Lecture 1:
+### Lecture 33: Left and right inverses; pseudoinverse
 
-### Lecture 1:
+### Lecture 34: Final course review
 
-### Lecture 1:
 
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:
-
-### Lecture 1:

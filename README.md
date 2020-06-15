@@ -20,11 +20,19 @@ The course picks out four key applications in the book: Graphs and Networks; Sys
 
 This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
 
-## Lecture
+## Video Lectures
+
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded live in the Fall of 1999. 
+
+Support for the video production was provided by the Lord Foundation of Massachusetts under a grant to the MIT Center for Advanced Educational Services.
 
 ### Lecture 1: The geometry of linear equations
 
+https://www.youtube.com/watch?time_continue=4&v=J7DzL2_Na80
+
 ### Lecture 2: Elimination with matrices
+
+
 
 ### Lecture 3: Multiplication and inverse matrices
 

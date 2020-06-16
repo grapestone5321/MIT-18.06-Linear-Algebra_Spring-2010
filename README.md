@@ -122,6 +122,8 @@ https://www.youtube.com/watch?time_continue=8&v=13r9QY6cmjc
 
 ### Lecture 23: Differential equations and exp(At)
 
+https://www.youtube.com/watch?time_continue=3&v=IZqwi0wJovM
+
 
 
 ### Lecture 24: Markov matrices; fourier series
